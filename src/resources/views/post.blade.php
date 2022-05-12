@@ -1,5 +1,5 @@
 <x-layout>
-    <x-slot name="component">
+    <x-slot name="content">
         <article>
             <h1>{{ $post->title }}</h1>
 
